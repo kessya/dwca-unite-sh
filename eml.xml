@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="87904172-8516-4150-877c-bf58b8cb74f3"  system="http://gbif.org" scope="system" xml:lang="en">
+
+<dataset>
+    <title>UNITE - SH occurrence event test</title>
+    <creator>
+        <organizationName>University of Tartu</organizationName>
+        <electronicMailAddress>info@plutof.ut.ee</electronicMailAddress>
+    </creator>
+    <metadataProvider>
+        <individualName>
+            <givenName>Kessy</givenName>
+            <surName>Abarenkov</surName>
+        </individualName>
+        <organizationName>University of Tartu</organizationName>
+        <electronicMailAddress>kessy.abarenkov@ut.ee</electronicMailAddress>
+    </metadataProvider>
+    <pubDate>2017-06-21</pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Sequence based fungi ocurrences with 1.5% OTU clustering threshold mapping to Species Hypothesis.</para>
+    </abstract>
+    <keywordSet>
+        <keyword>rDNA</keyword>
+        <keyword>OTU</keyword>
+        <keyword>species hypothesis</keyword>
+        <keywordThesaurus>GBIF</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+    </intellectualRights>
+    <distribution scope="document">
+        <online>
+            <url function="information">https://unite.ut.ee/</url>
+        </online>
+    </distribution>
+    <contact>
+        <individualName>
+            <givenName>Kessy</givenName>
+            <surName>Abarenkov</surName>
+        </individualName>
+        <organizationName>University of Tartu</organizationName>
+        <electronicMailAddress>kessy.abarenkov@ut.ee</electronicMailAddress>
+    </contact>
+</dataset>
+
+</eml:eml>
