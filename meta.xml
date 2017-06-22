@@ -37,5 +37,6 @@
 		<field index="9" term="http://rs.tdwg.org/dwc/terms/order" />
 		<field index="10" term="http://rs.tdwg.org/dwc/terms/family" />
 		<field index="11" term="http://rs.tdwg.org/dwc/terms/genus" />
+		<field index="12" term="http://rs.tdwg.org/dwc/terms/references" />
 	</extension>	
 </archive>
